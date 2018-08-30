@@ -3,6 +3,8 @@ Autobob is a set of scripts that can be used to post excerpts of Bob's books ont
 
 It basically sends a message to Slack channel with some formatting around it, to accentuate the passive-aggressivity of what you wanna say.
 
+I used to use it back at BuildDirect to disseminate words of wisdom. It was fun. At least for me.
+
 # How does it work
 
 1) Copy some paragraph from Bob's e-book from your favorite Kindle reader.
