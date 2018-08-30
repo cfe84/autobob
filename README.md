@@ -23,15 +23,17 @@ It basically sends a message to Slack channel with some formatting around it, to
 
 # Example
 
-```md
 Behold, the word of Bob
 
-*Fired*
+**Fired**
 
 The next day my supervisor thanked me for my help, and terminated my employment. Apparently ASC didn’t feel they had the time to nurture a  17-year-old.
 
-_Martin, Uncle Bob - Clean Coder, page 4 
-```
+_Martin, Uncle Bob - Clean Coder, page 4_
+
+**Glory to you, O Bob!**
+
+
 
 Hopefully you'll use the tool to disseminate more useful insights, such as -
 
