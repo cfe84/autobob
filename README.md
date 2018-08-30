@@ -22,6 +22,7 @@ I used to use it back at BuildDirect to disseminate words of wisdom. It was fun.
 13) Copy again, then run again.
 14) At this stage if it works it's a miracle. But if it does, it's gonna send a message from slackbot that looks like below
 15) Also the tool pre-dates Clean Architecture, so if you wanna add it, have at it.
+16) Alternatively you can use `bobify.sh` which just formats what's in your clipboard (and also works only on Mac)
 
 # Example
 
